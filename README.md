@@ -8,5 +8,6 @@ Technologies: Python, Jupyter Notebooks, Data visualization libraries like Matpl
 
 Challenges & Future features: A challenge was processing and visualizing large datasets. In the future i plan to involve incorporating more geographical data and enable users to customize the visualizations.
 
-# Screenshot:
-![image](https://github.com/Ade-212/uniProjects/assets/143139190/73e87d99-25c4-4480-88cb-acfa420d530b)
+# PNG plot:
+![newplot](https://github.com/Ade-212/Covid-19-data-visualization/assets/143139190/68ae9d96-4173-4b2a-8f80-843981c91216)
+
