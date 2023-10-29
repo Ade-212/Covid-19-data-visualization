@@ -11,3 +11,4 @@ Challenges & Future features: A challenge was processing and visualizing large d
 # PNG plot:
 ![newplot](https://github.com/Ade-212/Covid-19-data-visualization/assets/143139190/68ae9d96-4173-4b2a-8f80-843981c91216)
 
+
